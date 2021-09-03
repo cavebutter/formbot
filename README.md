@@ -18,3 +18,5 @@ I am old enough to remember the ending of Real Genius, where Laslo uses a comput
   
   This small application was created as an academic exercise and anyone can use it for
    any purpose without attribution or notifying me.
+   
+   You'll need to download the chromedriver for your version of chrome and extract it to the resources folder.
